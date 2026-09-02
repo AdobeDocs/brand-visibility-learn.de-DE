@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum eine konsistente Abdeckung einen Platz Nummer eins übertreffen kann
 * Warum tiefgründige aktuelle Inhalte und starke SEO immer noch Zitate fördern
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502829/?captions=ger&learn=on){transcript=true}

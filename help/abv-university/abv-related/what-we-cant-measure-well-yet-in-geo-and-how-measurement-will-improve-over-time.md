@@ -33,4 +33,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum Markennamen, die auch gebräuchliche Wörter sind, schwer zu erkennen sind
 * Warum Messung eine kontinuierliche Verbesserung ist, die immer besser wird
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502869/?captions=ger&learn=on){transcript=true}

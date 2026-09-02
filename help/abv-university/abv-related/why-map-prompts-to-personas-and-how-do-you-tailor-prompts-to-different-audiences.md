@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Clustern von Themen nach Rolle, z. B. nach Entscheidungsträger oder Student
 * Warum verbirgt das Durchschnittssinn der Sichtbarkeit für eine ganze Zielgruppe Ihr wahres Ansehen?
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502802/?captions=ger&learn=on){transcript=true}

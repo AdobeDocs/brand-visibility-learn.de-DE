@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Die Wortzahlen für die Sichtbarkeit von Inhalten zeigen, wie viel KI tatsächlich sieht
 * Warum Agenten eine klare Seitenstruktur benötigen, insbesondere für Formulare und Interaktionen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502775/?captions=ger&learn=on){transcript=true}

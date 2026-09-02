@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum der Score ein Nordstern ist, der alleine schwer zu bearbeiten ist
 * Welche Metriken sollten damit kombiniert werden, von Erwähnungen und Zitaten bis hin zu Agent und Referral Traffic
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502912/?captions=ger&learn=on){transcript=true}

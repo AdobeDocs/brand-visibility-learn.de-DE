@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum dieselbe Eingabeaufforderung einen unterschiedlichen Ton über Benutzende und Tage hinweg zurückgeben kann
 * Wie Adobe Brand Visibility das Sentiment im Zeitverlauf und pro Eingabeaufforderung verfolgt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502883/?captions=ger&learn=on){transcript=true}

@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum es keine Manipulation ist, Inhalte lesbarer zu machen
 * Warum dies ein natürlicher Prozess mit geringem Risiko ist, wenn er im CDN ausgeführt wird
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502811/?captions=ger&learn=on){transcript=true}

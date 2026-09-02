@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie das Abrufen (RAG) ist, was ein echtes Zitat produziert
 * Warum eine Zitierung ein stärkeres Signal dafür ist, dass Ihre Marke als Beweis verwendet wurde
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502847/?captions=ger&learn=on){transcript=true}

@@ -33,4 +33,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie das Abrufen (RAG) Antworten in Live-Quellen begründet und Zitate produziert
 * Warum sich die Währung der Entdeckung verschiebt vom Klick zum Zitat, und die fünf Hebel, die Zitate verdienen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502892/?captions=ger&learn=on){transcript=true}

@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum inkonsistente Kanonikale, Paywalls und Anmeldewände den KI-Zugriff einschränken
 * Wie Client-seitiges Rendering Inhalte ausblendet und wie die Wiederherstellungs-Content-Sichtbarkeit sie behebt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502929/?captions=ger&learn=on){transcript=true}

@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Wo kann ich überprüfen, welche Vorschläge Sie angewendet haben und welche noch offen sind?
 * Zurücksetzen von Optimierungen jederzeit
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502735/?captions=ger&learn=on){transcript=true}

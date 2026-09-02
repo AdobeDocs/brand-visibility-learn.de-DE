@@ -34,4 +34,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie falsche Drittanbieterinformationen zu einem schlechten Kundenerlebnis führen können
 * Warum die wöchentliche Überwachung ein praktischer Rhythmus ist, mit täglicher Verfügbarkeit
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502820/?captions=ger&learn=on){transcript=true}
