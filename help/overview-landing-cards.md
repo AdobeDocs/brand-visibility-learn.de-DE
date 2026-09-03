@@ -1,17 +1,19 @@
 ---
-title: 'Markensichtbarkeit University: Landing Cards Test'
-description: Alternate Markensichtbarkeit University - Überblick, der mit der Komponente „landing-cards-container“ erstellt wurde, um einen A/B-Vergleich von Kartenstilen zu ermöglichen.
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+title: 'Markensichtbarkeit University: GEO Video Tutorials'
+description: Erfahren Sie, wie KI-Suche und LLMs funktionieren und wie Sie Markensichtbarkeit und Zitate in KI-Antworten sammeln können - mit praktischen Wertevideos von der Markensichtbarkeit University.
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: 845
+ht-degree: 3%
 
 ---
 
 
-# Markensichtbarkeit University (Landing Cards A/B-Test)
+# Adobe Brand Visibility University
 
-Dies ist eine alternative Version der Übersicht, die mit der `landing-cards-container` erstellt wurde, um sie mit den generierten HTML-Karten zu vergleichen. Dieselben Videos, gruppiert nach Thema.
+Herzlich willkommen an der Adobe Brand Visibility University, einer immer größer werdenden Bibliothek an kurzen, praktischen Wertevideos, die erklären, wie KI-Suche und große Sprachmodelle funktionieren und wie Sie in KI-Antworten Sichtbarkeit und Zitate für Ihre Marke gewinnen können. Nach Thema unten durchsuchen.
 
 ## Stiftungen: So funktioniert KI-Suche {#foundations}
 
