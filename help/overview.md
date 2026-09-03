@@ -1,21 +1,19 @@
 ---
-title: Adobe Brand Visibility University
-description: Erkunden Sie die Adobe Brand Visibility University, machen Sie sich kurze Praxisvideos, wie KI-Suche funktioniert und wie Sie Markensichtbarkeit und Zitate in KI-Antworten sammeln können.
+title: 'Markensichtbarkeit University: GEO Video Tutorials'
+description: Erfahren Sie, wie KI-Suche und LLMs funktionieren und wie Sie Markensichtbarkeit und Zitate in KI-Antworten sammeln können - mit praktischen Wertevideos von der Markensichtbarkeit University.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2:
-  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2:
-  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
-source-git-commit: 7f9b032dd93d0c288aa96b93d7077d03c216a71e
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: cfcef805ff63c2b290999b01c21b1c6b3d6abe1a
 workflow-type: tm+mt
-source-wordcount: 147
-ht-degree: 3%
+source-wordcount: 153
+ht-degree: 2%
 
 ---
 
 
-# Übersicht
+# Adobe Brand Visibility University
 
 Herzlich willkommen an der Adobe Brand Visibility University, einer immer größer werdenden Bibliothek an kurzen, praktischen Wertevideos, die erklären, wie KI-Suche und große Sprachmodelle funktionieren und wie Sie in KI-Antworten Sichtbarkeit und Zitate für Ihre Marke gewinnen können. Nach Thema unten durchsuchen.
 
