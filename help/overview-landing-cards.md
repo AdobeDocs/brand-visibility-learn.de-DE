@@ -1,8 +1,10 @@
 ---
 title: 'Markensichtbarkeit University: GEO Video Tutorials'
 description: Erfahren Sie, wie KI-Suche und LLMs funktionieren und wie Sie Markensichtbarkeit und Zitate in KI-Antworten sammeln können - mit praktischen Wertevideos von der Markensichtbarkeit University.
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
 source-wordcount: 845
