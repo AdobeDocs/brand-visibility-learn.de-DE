@@ -1,9 +1,9 @@
 ---
 user-guide-title: Markensichtbarkeit-Tutorials
 user-guide-description: Markensichtbarkeit-Tutorials
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -12,10 +12,11 @@ ht-degree: 0%
 # Markensichtbarkeit Universität {#tutorials}
 
 + [Übersicht](overview.md)
++ [Übersicht (Landing Cards-Test)](overview-landing-cards.md)
++ [Funktionsweise von LLMs: Handbuch für Marketing-Experten](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing Webmaster Tools KI-Leistungsbericht](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Müssen Sie Ihre gesamte Website optimieren?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [Schreiben von Eingabeaufforderungen für zuverlässige, wiederholbare GEO-Erkenntnisse](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [Funktionsweise von LLMs: Handbuch für Marketing-Experten](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Überwachen regionaler Unterschiede bei den Reaktionen auf KI-Markenbezeichnungen](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [Stärkung der Markenautorisierung für Domains mit geringem Agentenverkehr](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [Deckt sich das Hinzufügen von KI-freundlichen Seitenzusammenfassungen?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
