@@ -3,8 +3,10 @@ title: 'Markensichtbarkeit University: Generierte Karten (DEBUG)'
 description: Die Debug Copy der mit der Kartenkomponente „generated-HTML" erstellten Markensichtbarkeit-Universitätsübersicht wird beibehalten, um ein Problem mit dem Kartenrendern zu untersuchen.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
 source-git-commit: 54dec47a0083c8958bc8c06471ac92ddbaa9394f
 workflow-type: tm+mt
 source-wordcount: 2343
