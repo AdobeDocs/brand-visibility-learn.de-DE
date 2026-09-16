@@ -8,10 +8,10 @@ doc-type: Value Video
 duration: 161
 last-substantial-update: 2026-09-02
 jira: KT-22505
-nudge: edit1
-source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '162'
 ht-degree: 0%
 ---
 # Wie lassen sich Eingabeaufforderungen schreiben, die Ihnen zuverlässige, wiederholbare Geo-Einblicke bieten?
@@ -33,4 +33,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum die Führung eines versionierten Protokolls über Ihre Eingabeaufforderungen und deren Absicht sie im Laufe der Zeit verbessert
 * Hochladen Ihrer Eingabeaufforderungen in der Kundenkonfiguration und Warum häufige Änderungen sich auf historische Scores auswirken können
 
->[!VIDEO](https://video.tv.adobe.com/v/3502749/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
