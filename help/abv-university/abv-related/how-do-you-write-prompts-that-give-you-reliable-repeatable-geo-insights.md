@@ -33,4 +33,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum die Führung eines versionierten Protokolls über Ihre Eingabeaufforderungen und deren Absicht sie im Laufe der Zeit verbessert
 * Hochladen Ihrer Eingabeaufforderungen in der Kundenkonfiguration und Warum häufige Änderungen sich auf historische Scores auswirken können
 
->[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502749/?captions=ger&learn=on){transcript=true}
