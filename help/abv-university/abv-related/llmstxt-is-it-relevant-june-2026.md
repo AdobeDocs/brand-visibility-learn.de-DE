@@ -44,4 +44,4 @@ In diesem Video erfahren Sie mehr über:
 * Was sich kürzlich geändert hat, einschließlich des nun gelesenen Googlebots
 * Warum die Schaffung einer solchen Versicherung keine Zitiergarantie ist, sondern eine einfachere Versicherung
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502901/?captions=ger&learn=on){transcript=true}

@@ -49,4 +49,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie Sie Crawler den Zugriff auf und das Verständnis von Inhalten erleichtern
 * Wie Adobe Brand Visibility die Zitate von Drittanbietern anzeigt, die ausgerichtet werden sollen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502856/?captions=ger&learn=on){transcript=true}

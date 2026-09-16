@@ -51,4 +51,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie Edge-Optimierungen derzeit nur KI-Bots, nicht aber Search Crawler bereitstellen
 * Wie jegliche Optimierung in Sekunden vom CDN zurückgesetzt werden kann
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502874/?captions=ger&learn=on){transcript=true}

@@ -46,4 +46,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum sollten Sie Ihre eigenen Inhalte korrekt und konsistent gestalten, bevor Sie sie von der Website verschieben?
 * Wie Offsite-Möglichkeiten (zitiert Sentiment, Wikipedia, Reddit, YouTube) und klassische Hebel wie Backlinks und Reviews Autorität aufbauen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502784/?captions=ger&learn=on){transcript=true}

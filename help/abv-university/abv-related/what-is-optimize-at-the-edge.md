@@ -49,4 +49,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie vorab gerenderte HTML nur KI-Bots und nicht Benutzern bereitgestellt werden
 * Wie injizierte Zusammenfassungen und Inhaltsverzeichnisse Bots helfen, eine Seite zu verstehen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502793/?captions=ger&learn=on){transcript=true}

@@ -47,4 +47,4 @@ In diesem Video erfahren Sie mehr über:
 * Was es bedeutet, dass ChatGPT wieder ein Traffic-Kanal ist, nicht nur ein Markenkanal
 * Die neue Referral Traffic-Funktion im URL-Inspektor zeigt dies an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502919/?captions=ger&learn=on){transcript=true}

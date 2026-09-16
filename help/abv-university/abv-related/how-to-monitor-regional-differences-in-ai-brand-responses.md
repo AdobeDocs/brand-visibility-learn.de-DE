@@ -46,4 +46,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum das Schreiben des Speicherorts in die Eingabeaufforderung selbst am besten dem echten Benutzerverhalten entspricht
 * Was uns zu Beginn auffordert und wie der Ansatz branchenübergreifend angewandt wird
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502759/?captions=ger&learn=on){transcript=true}

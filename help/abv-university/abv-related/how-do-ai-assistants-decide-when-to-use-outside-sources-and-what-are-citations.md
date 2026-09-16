@@ -45,4 +45,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum einige Zitate halluziniert sind und zu 404s führen können
 * Ermitteln einer tatsächlich abgerufenen Quelle aus modellgeneriertem Text
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502838/?captions=ger&learn=on){transcript=true}
