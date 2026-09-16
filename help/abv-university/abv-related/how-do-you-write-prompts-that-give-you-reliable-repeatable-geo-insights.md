@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit1
+source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # Wie lassen sich Eingabeaufforderungen schreiben, die Ihnen zuverlässige, wiederholbare Geo-Einblicke bieten?
 
 Behandeln Sie die von Ihnen verfolgten Eingabeaufforderungen wie Testfälle. In diesem Video erfahren Sie, wie realistische, spezifische und wiederholbare Eingabeaufforderungen Ihnen stabile und zuverlässige Einblicke in die KI-Sichtbarkeit in Adobe Brand Visibility bieten.
@@ -34,4 +33,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum die Führung eines versionierten Protokolls über Ihre Eingabeaufforderungen und deren Absicht sie im Laufe der Zeit verbessert
 * Hochladen Ihrer Eingabeaufforderungen in der Kundenkonfiguration und Warum häufige Änderungen sich auf historische Scores auswirken können
 
->[!VIDEO](https://video.tv.adobe.com/v/3502749/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
