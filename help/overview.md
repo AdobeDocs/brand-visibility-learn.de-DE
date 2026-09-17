@@ -28,7 +28,7 @@ ht-degree: 3%
 Herzlich willkommen an der Adobe Brand Visibility University, einer immer größer werdenden Bibliothek an kurzen, praktischen Wertevideos, die erklären, wie KI-Suche und große Sprachmodelle funktionieren und wie Sie in KI-Antworten Sichtbarkeit und Zitate für Ihre Marke gewinnen können. Nach Thema unten durchsuchen.
 
 >[!NOTE]
->Die vollständige Dokumentation finden Sie in der Dokumentation zu [Adobe Brand Visibility](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
+>Die vollständige Dokumentation finden Sie in der Dokumentation zu [Adobe Brand Visibility](https://experienceleague.adobe.com/de/docs/brand-visibility/using/home).
 
 ## Stiftungen: So funktioniert KI-Suche {#foundations}
 
