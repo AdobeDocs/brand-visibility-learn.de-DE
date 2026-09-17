@@ -7,15 +7,25 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 403
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22500
-source-git-commit: 6fca4ae8b52606b1a965509a77f53554c5824637
+TQID: 'https://experienceleague.adobe.com/Yjc5C2YMJ-4UgHTsOK-XgIUMr-TaYXTNKh3Y4VxzI9Q'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
-
 ---
-
 # Bing Webmaster Tools KI-Leistungsbericht
 
 Erfahren Sie, wie der neue KI-Leistungsbericht von Microsoft in den Bing Webmaster-Tools verfolgt, wie oft Ihre Inhalte als Quelle in KI-generierten Antworten zitiert werden und was dies für die generative Engine-Optimierung (GEO) bedeutet.
