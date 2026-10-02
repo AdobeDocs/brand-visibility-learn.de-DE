@@ -23,7 +23,12 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -47,4 +52,4 @@ In diesem Video erfahren Sie mehr über:
 * Was es bedeutet, dass ChatGPT wieder ein Traffic-Kanal ist, nicht nur ein Markenkanal
 * Die neue Referral Traffic-Funktion im URL-Inspektor zeigt dies an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502919/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}

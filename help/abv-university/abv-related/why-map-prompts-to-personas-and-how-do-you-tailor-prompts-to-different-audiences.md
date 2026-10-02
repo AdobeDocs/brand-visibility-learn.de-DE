@@ -22,7 +22,10 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -46,4 +49,4 @@ In diesem Video erfahren Sie mehr über:
 * Clustern von Themen nach Rolle, z. B. nach Entscheidungsträger oder Student
 * Warum verbirgt das Durchschnittssinn der Sichtbarkeit für eine ganze Zielgruppe Ihr wahres Ansehen?
 
->[!VIDEO](https://video.tv.adobe.com/v/3502802/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
