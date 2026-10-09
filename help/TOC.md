@@ -1,15 +1,17 @@
 ---
 user-guide-title: Markensichtbarkeit-Tutorials
 user-guide-description: Markensichtbarkeit-Tutorials
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # Markensichtbarkeit Universität {#tutorials}
 
 + [Übersicht](overview.md)
++ Nachrichten und Einblicke {#news-and-insights}
+  + [Google beantwortet Markennamen jetzt mit KI-Übersichten](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Stiftungen: So funktioniert KI-Suche {#foundations}
   + [Funktionsweise von LLMs: Handbuch für Marketing-Experten](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [Schreiben von Eingabeaufforderungen für zuverlässige, wiederholbare GEO-Erkenntnisse](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)

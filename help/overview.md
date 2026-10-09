@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility University
@@ -29,6 +29,22 @@ Herzlich willkommen an der Adobe Brand Visibility University, einer immer größ
 
 >[!NOTE]
 >Die vollständige Dokumentation finden Sie in der Dokumentation zu [Adobe Brand Visibility](https://experienceleague.adobe.com/de/docs/brand-visibility/using/home).
+
+## Nachrichten und Einblicke {#news-and-insights}
+
+Die neuesten Veränderungen in der KI-Suche und was sie für Ihre Marke bedeuten.
+
+::::landing-cards-container
+:::card
+![Google beantwortet Markennamen jetzt mit KI-Übersichten](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+Google beantwortet Markennamen jetzt mit KI-Übersichten
+
+Wie die KI-Übersichten von Google jetzt auf Markennamen-Suchen reagieren und was in der Suchkonsole und den KI-Antworten zu sehen ist.
+
+[Beobachten](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## Stiftungen: So funktioniert KI-Suche {#foundations}
 
@@ -157,6 +173,15 @@ Eine Prüfung von fast 5.000 AEM-Sites auf LLMs.txt-Einführung, und warum die S
 Erfahren Sie, was Sie messen und wie Sie die Signale lesen können, die zeigen, ob KI Sie sehen und zitieren kann.
 
 ::::landing-cards-container
+:::card
+![Funktionsweise der Impact Measurement-Engine](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+Funktionsweise der Impact Measurement-Engine
+
+Wie die Engine die KI-Sichtbarkeit vor und nach einer Optimierung misst und genau meldet, was sich geändert hat.
+
+[Beobachten](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![Sichtbarkeitsbewertung und Metriken für KI-Sichtbarkeit](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 
