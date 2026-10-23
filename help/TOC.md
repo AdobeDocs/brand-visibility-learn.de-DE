@@ -1,9 +1,9 @@
 ---
 user-guide-title: Markensichtbarkeit-Tutorials
 user-guide-description: Markensichtbarkeit-Tutorials
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [Übersicht](overview.md)
 + Nachrichten und Einblicke {#news-and-insights}
+  + [Erläuterung der bevorzugten Google-Quellen](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCP und Verwendung Ihrer Site durch KI-Agenten](abv-university/abv-related/what-is-webmcp.md)
   + [Google beantwortet Markennamen jetzt mit KI-Übersichten](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Stiftungen: So funktioniert KI-Suche {#foundations}
   + [Funktionsweise von LLMs: Handbuch für Marketing-Experten](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
