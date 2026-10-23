@@ -32,4 +32,4 @@ In diesem Video erfahren Sie mehr über:
 * Hinzufügen der Schaltfläche mit zwei Zeilen HTML oder einem einfachen Fallback-Link
 * Überprüfen der Eignung und Verfolgen von Auswahlen in der Google-Suchkonsole
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504840/?captions=ger&learn=on){transcript=true}

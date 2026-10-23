@@ -33,4 +33,4 @@ In diesem Video erfahren Sie mehr über:
 * Wo Sie beginnen möchten, von der schreibgeschützten Suche bis zu Aktionen mit höheren Einsätzen
 * Wo Adobe Sites Optimizer und Adobe Brand Visibility hineinpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504849/?captions=ger&learn=on){transcript=true}
