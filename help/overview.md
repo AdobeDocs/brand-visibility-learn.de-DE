@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -35,6 +35,24 @@ Herzlich willkommen an der Adobe Brand Visibility University, einer immer größ
 Die neuesten Veränderungen in der KI-Suche und was sie für Ihre Marke bedeuten.
 
 ::::landing-cards-container
+:::card
+Erläuterung zu ![Google Preferred Sources](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Erläuterung der bevorzugten Google-Quellen
+
+Was die Funktion „Bevorzugte Quellen“ von Google bewirkt, warum sie schnell wächst und wie sie in zwei Zeilen von HTML hinzugefügt wird.
+
+[Beobachten](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP und wie KI-Agenten Ihre Site verwenden](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP und Verwendung Ihrer Site durch KI-Agenten
+
+Wie WebMCP es KI-Agenten ermöglicht, Tools auf Ihrer Seite wie eine API aufzurufen, wie sie sich von MCP unterscheiden und wo sie beginnen sollen.
+
+[Beobachten](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![Google beantwortet Markennamen jetzt mit KI-Übersichten](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
