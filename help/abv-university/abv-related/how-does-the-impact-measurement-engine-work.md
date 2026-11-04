@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # Wie funktioniert die Impact Measurement-Engine?
@@ -54,4 +54,4 @@ In diesem Video erfahren Sie mehr über:
 >[!VIDEO](https://video.tv.adobe.com/v/3504054/?captions=ger&learn=on){transcript=true}
 
 >[!NOTE]
->Wählen Sie mindestens 20 URLs aus, damit die Engine über ausreichend große Stichproben verfügt, um die Wirkung genau zu messen. Die Wirkungsmessung ist heute für die Recovery-Content-Sichtbarkeit verfügbar und wird auf alle Opportunities von Edge erweitert.
+>Wählen Sie mindestens 20 URLs aus, damit die Engine über ausreichend große Stichproben verfügt, um die Wirkung genau zu messen. Die Wirkungsmessung ist heute für die Content-Sichtbarkeit „Wiederherstellen“, „LLM-freundliche Zusammenfassungen hinzufügen“ und „Inhaltsverzeichnis hinzufügen“ verfügbar und soll bei den Edge-Opportunitys erweitert werden, um mehr zu optimieren.
