@@ -51,7 +51,7 @@ In diesem Video erfahren Sie mehr über:
 * Vorher-Nachher-Bericht in Opportunity Workspace
 * Warum menschliche Besucher keine Änderung sehen, während KI die optimierte Seite sieht
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504054/?captions=ger&learn=on){transcript=true}
 
 >[!NOTE]
 >Wählen Sie mindestens 20 URLs aus, damit die Engine über ausreichend große Stichproben verfügt, um die Wirkung genau zu messen. Die Wirkungsmessung ist heute für die Content-Sichtbarkeit „Wiederherstellen“, „LLM-freundliche Zusammenfassungen hinzufügen“ und „Inhaltsverzeichnis hinzufügen“ verfügbar und soll bei den Edge-Opportunitys erweitert werden, um mehr zu optimieren.
