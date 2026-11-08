@@ -33,12 +33,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 ---
-# Was ist Agent Traffic und wie kann er in Optimierungsentscheidungen einfließen?
+# Was ist Agent-Traffic und wie kann er als Grundlage für Optimierungsentscheidungen dienen?
 
 Agent-Traffic-KI interagiert aktiv mit Ihrer Website. In diesem Video wird gezeigt, wie die Überwachung in Adobe Brand Visibility zeigt, auf welche KI zugreifen kann und wo gehandelt werden muss.
 
@@ -57,4 +57,4 @@ In diesem Video erfahren Sie mehr über:
 * Die Wortzahlen für die Sichtbarkeit von Inhalten zeigen, wie viel KI tatsächlich sieht
 * Warum Agenten eine klare Seitenstruktur benötigen, insbesondere für Formulare und Interaktionen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502775/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}

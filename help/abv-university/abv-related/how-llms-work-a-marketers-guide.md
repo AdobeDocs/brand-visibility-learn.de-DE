@@ -27,12 +27,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 ---
-# Funktionsweise von LLMs: Handbuch für Marketing-Experten
+# Funktionsweise von LLMs: ein Leitfaden für Marketing-Experten
 
 Ein praktischer, nicht-technischer Einblick in die Funktionsweise großer Sprachmodelle, warum sie Antworten eher voraussagen als nachschlagen und warum ihre Erwähnung die neue Sichtbarkeit von GEO ist.
 
@@ -51,4 +51,4 @@ In diesem Video erfahren Sie mehr über:
 * Wie das Abrufen (RAG) Antworten in Live-Quellen begründet und Zitate produziert
 * Warum sich die Währung der Entdeckung verschiebt vom Klick zum Zitat, und die fünf Hebel, die Zitate verdienen
 
->[!VIDEO](https://video.tv.adobe.com/v/3502892/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}

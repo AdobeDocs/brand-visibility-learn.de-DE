@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# Welche technischen Grundlagen helfen LLMs, Ihre Website korrekt Crawlen und zu interpretieren?
+# Welche technischen Grundlagen helfen LLMs, Ihre Website korrekt crawlen und zu interpretieren?
 
 LLM-Erlebnisse basieren auf derselben Web-Infrastruktur wie die Suche: crawlen, Indizierung und Rendering. In diesem Video werden die technischen Grundlagen behandelt, mit denen Ihre Inhalte sichtbar und anschaulich bleiben.
 
@@ -54,4 +54,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum inkonsistente Kanonikale, Paywalls und Anmeldewände den KI-Zugriff einschränken
 * Wie Client-seitiges Rendering Inhalte ausblendet und wie die Wiederherstellungs-Content-Sichtbarkeit sie behebt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502929/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}

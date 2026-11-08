@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -54,4 +54,4 @@ In diesem Video erfahren Sie mehr über:
 * Warum dieselbe Eingabeaufforderung einen unterschiedlichen Ton über Benutzende und Tage hinweg zurückgeben kann
 * Wie Adobe Brand Visibility das Sentiment im Zeitverlauf und pro Eingabeaufforderung verfolgt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502883/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}

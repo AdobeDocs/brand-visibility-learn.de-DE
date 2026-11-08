@@ -32,7 +32,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -56,7 +56,7 @@ In diesem Video erfahren Sie mehr über:
 * Unterschied zwischen Zitatdaten und dem klassischen Suchleistungsbericht nach Klicks, Impressionen und Rang
 * Warum dies für Ihre GEO-Strategie wichtig ist und wie sie Adobe Brand Visibility ergänzt
 
->[!VIDEO](https://video.tv.adobe.com/v/3502699/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >Der KI-Leistungsbericht behandelt derzeit nur Zitate in Bing Copilot und KI-Zusammenfassungen. Andere KI-Assistenten wie ChatGPT sind noch nicht enthalten.
