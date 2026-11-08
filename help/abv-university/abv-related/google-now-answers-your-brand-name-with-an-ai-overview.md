@@ -32,4 +32,4 @@ In diesem Video erfahren Sie mehr über:
 * So lesen Sie die Übersicht über Ihre eigene markenspezifische KI und sehen, welche Quellen Google zitiert
 * Warum es sich lohnt, die KI-Antwort über Ihre Marke so genau zu verfolgen wie Ihre Rankings
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504220/?captions=ger&learn=on){transcript=true}
