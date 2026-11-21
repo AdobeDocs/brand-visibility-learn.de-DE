@@ -1,9 +1,9 @@
 ---
 user-guide-title: Markensichtbarkeit-Tutorials
 user-guide-description: Markensichtbarkeit-Tutorials
-source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
+source-git-commit: 3af4fa67a4f8c22a9f89abf1108a3eb28d6ef871
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 
@@ -41,3 +41,5 @@ ht-degree: 0%
   + [Überwachen regionaler Unterschiede bei den Reaktionen der KI-Marken](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
   + [Warum Sie KI-Antworten zu Ihrer Marke regelmäßig überwachen sollten](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
   + [Warum Sentiment in KI-Antworten (und ihren Grenzen) wichtig ist](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ Markensichtbarkeit in Aktion {#in-action}
+  + [Gelegenheit zur Inhaltserstellung](abv-university/abv-related/content-freshness.md)
