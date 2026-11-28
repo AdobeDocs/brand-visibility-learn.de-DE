@@ -32,7 +32,7 @@ In diesem Video erfahren Sie mehr über:
 * Lesen von Datumssignalen aus der Seite, dem Server und der Sitemap und Ignorieren technischer Veröffentlichungen
 * Überprüfen eines Vorschlags und Bereitstellen an der Quelle für AEM Author, getrennt von der Veröffentlichung
 
->[!VIDEO](https://video.tv.adobe.com/v/3508688/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508695/?captions=ger&learn=on){transcript=true}
 
 >[!NOTE]
 >Die Inhaltsaktualisierung zielt derzeit auf Nicht-E-Commerce-Sites mit einem -Blog und weniger als 10.000 Seiten ab. Für die Bereitstellung der Neufassung an der Quelle ist eine geeignete AEM as a Cloud Service-Site erforderlich.
